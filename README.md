@@ -2,6 +2,15 @@
 
 ![Main](https://github.com/SadiqHarry/Angular-SpringBoot-MYSQL-Vacation_Booking_Website/assets/116308353/75de4b5d-3560-4f56-875e-2c729cb53843)
 
+## Technologies Leveraged
+- Angular/Typescript 
+- Springboot/Java
+- HTML/CSS
+- NodeJS
+- MYSQL
+- Intellij
+- VSCode
+
 ## Description
 
 The Vacation Booking Website is a web application that allows users to book vacations and explore various exciting excursions. Users can browse different vacation packages, view excursion details, and make bookings for their preferred vacations.
